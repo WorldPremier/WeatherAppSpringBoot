@@ -1,4 +1,5 @@
 package com.tts.WeatherApp.model;
+import lombok.Data;
 
 import java.util.List;
 
